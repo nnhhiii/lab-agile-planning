@@ -8,18 +8,14 @@ assignees: ''
 ---
 
 
-** As a** User
+Là một người dùng
 
-** I need** a service that has a counter
+Tôi muốn
 
-**So that ** I can keep track of how many times something was done
+Để 
 
 
- ### Details and Assumptions
-
-* [document what you know]
-
-### Acceptance Criteria
+### Tiêu chí chấp nhận
 
 ```gherkin
 
