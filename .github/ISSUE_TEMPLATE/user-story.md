@@ -7,58 +7,26 @@ assignees: ''
 
 ---
 
-1.1
 
-2.2
+** As a** User
 
-3.3
+** I need** a service that has a counter
 
-4.4
+**So that ** I can keep track of how many times something was done
 
-5.5
 
-6.6
+ ### Details and Assumptions
 
-7.7
+* [document what you know]
 
-8.8
+### Acceptance Criteria
 
-9.9
+```gherkin
 
-10. 10
+Given [some context]
 
-11. 11
+When [certain action is taken]
 
-12. 12
+Then [the outcome of action is observed]
 
-13. 13
-
-14. 14
-
-1. ** As a** [role]
-
-2. ** I need** [function]
-
-3. **So that ** [benefit]
-
-4.
-
-5. ### Details and Assumptions
-
-6. * [document what you know]
-
-7.
-
-8. ### Acceptance Criteria
-
-9.
-
-10.```gherkin
-
-11. Given [some context]
-
-12. When [certain action is taken]
-
-13. Then [the outcome of action is observed]
-
-14.```
+```
